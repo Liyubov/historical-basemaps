@@ -14,9 +14,9 @@ Geodata precision and generalization is adapted for mapping data on the scale of
 
 When using the data, keep in mind that
 
-1. historical boundaries are even more disputed than contemporary ones, that
-2. the actual concept of territory and national boundary becomes meaningful, in Europe, only since the [Peace of Westphalia](https://en.wikipedia.org/wiki/Peace_of_Westphalia) (1648), that
-3. areas of civilizations actually overlap, especially in ancient history, and that
+1. historical boundaries are even more disputed than contemporary ones,
+2. the actual concept of territory and national boundary becomes meaningful, in Europe, only since the [Peace of Westphalia](https://en.wikipedia.org/wiki/Peace_of_Westphalia) (1648), 
+3. areas of civilizations actually overlap, especially in ancient history, 
 4. overlaying these ancient vector maps on contemporary physical maps can be misleading; rivers, lakes, shorelines _do_ change very much over millenia; think for instance about the evolution of the [Aral sea](https://en.wikipedia.org/wiki/Aral_Sea) since the 1980s.
 
 Overlapping areas are useally dealt with as topological errors in traditional GIS, but some overlaps make sense in the case of this repository.
@@ -59,5 +59,8 @@ This project started as a collection of basemaps collected, adpated and converte
 * [Ourednik, A. (2014), _The impossible here_](https://www.espacestemps.net/articles/the-impossible-here/) (research paper) - "Grain upon grain, one by one, and one day, suddenly, there’s a heap, a little heap, the impossible heap."
 
 * [Ourednik, A. (2015) _Les cartes du boyard Kraïenski_](https://ourednik.info/fictions.php?texte=boyard-kraienski) (novel, in French) -  a cartographer sent to map the eastern border or the European Union gets lost in a fictive country somewhere between Ukraine and Bulgaria...
+
+## Notebooks for analysis of territories 
+Notebooks are gathered in the notebook folder.
 
 If you edit the geojson maps and want to refer your own published work, please add here.
